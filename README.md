@@ -4,7 +4,15 @@
 <p align="center"> 
   Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
-
+anti view once command
+auto reply command
+chat gpt
+browser command
+tag all command
+auto download command
+wallpaper menu
+coding menu
+education menu
 
 </br>
 
